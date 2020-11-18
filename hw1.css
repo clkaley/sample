@@ -1,0 +1,103 @@
+body{
+    margin: 25px 25px 25px 25px;
+    padding: 10px;
+    background: gainsboro;
+}
+
+
+header{
+        background:linear-gradient(to right, #9EC2E8, #174C8C);
+    text-align: center;
+    font-size: 25px;
+    color: #FFBA8F;  
+    margin: 0 auto;
+    padding: 5px;
+    text-transform: uppercase;
+    background: url(flywheel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+}
+
+
+nav a{
+    background: #FFBA8F;
+    color:#174C8C;
+    text-decoration: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+    opacity: 0.5;
+    display: inline-block;
+    width: 200px;
+    margin: 20px;
+    padding: 25px;
+}
+
+
+a:active{
+    color:#FFBA8F;
+    background:#F2F0F2 ;
+}
+
+
+h2{
+    color: #006693;
+    font-size:23px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;   
+    text-transform: uppercase;
+    font-weight: bold; 
+}
+
+
+p{
+    color:  #006693;
+    font-size: 18px;
+}
+
+
+img{
+    display: inline-block;
+    width: 250px;
+    border: solid 3px #1B5E20;
+    margin: 2px;
+    margin-bottom: 10px;
+    align-content: center;
+}
+
+
+
+.left, .right{
+    display: inline-block;
+    float: right;
+}
+
+
+.left{
+    background-color: #C0C0C0;
+    width: 20%;
+    align:center;
+    padding: 10px 20px 10px 30px;
+}
+
+
+
+.right{
+    padding: 0 25px 20% 25px;
+    width: 73%;
+}
+
+
+.right a{
+    color:#C2A18A;
+}
+
+
+table{
+    color: #006693
+}
+
+
+
+
+
+
